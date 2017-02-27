@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "data": {
+    "balances":[
+      {
+        "id":"1",
+        "balanceCycle":"2017年3月",
+        "balanceAmount":"￥ 396.00",
+        "pictureUrl":"http://xqproduct.xiangqu.com/Fvr2l92_hl7gP1qNfMj7pQszCjQY?imageView2/2/w/770/q/90/format/jpg/770x360/"
+      },
+      {
+        "id":"2",
+        "balanceCycle":"2017年4月",
+        "balanceAmount":"￥ 400.00",
+        "pictureUrl":"http://xqproduct.xiangqu.com/FobqVP2KMng2RJHKBBTdi5brfAvS?imageView2/2/w/770/q/90/format/jpg/770x360/"
+      }
+
+    ],
+    "total":"100",
+    "page":"当前页",
+    "num":"当前页记录数"
+  },
+  "msg": null,
+  "success": true
+}

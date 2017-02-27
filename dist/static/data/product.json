@@ -1,0 +1,136 @@
+{
+  "code": 200,
+  "data": {
+    "products":[
+      {
+      "id":"2495242",
+      "productId":"2495242",
+      "image":"http://xqproduct.xiangqu.com/FkqNnR65h752cvgWA1ycVGA4jIg8?imageView2/2/w/606/q/90/format/jpg/800x800/",
+      "title":"OGG CRAFT 仿真玩具枪 木制新款加特林 可发射软弹类 连发皮筋枪",
+      "costPrice":"￥18",
+      "commissionRate":"15%",
+      "prodUrl":"http://www.xiangqu.com/product/detail/2495242.html?p=1&spm=9.2.1.6",
+      "source":"￥18",
+      "articles":[
+        {
+        "articleTitle":"微信文章标题1",
+        "articleUrl":"文章链接"
+        },
+        {
+          "articleTitle":"微信文章标题2",
+          "articleUrl":"文章链接"
+        },
+        {
+        "articleTitle":"微信文章标题1",
+        "articleUrl":"文章链接"
+        },
+        {
+          "articleTitle":"微信文章标题2",
+          "articleUrl":"文章链接"
+        },
+        {
+        "articleTitle":"微信文章标题1",
+        "articleUrl":"文章链接"
+        },
+        {
+          "articleTitle":"微信文章标题2",
+          "articleUrl":"文章链接"
+        }
+
+      ],
+        "skus":[{
+          "amount": 100,
+          "createdAt": 1433987722000,
+          "id": "8sajxqud",
+          "marketPrice": 79.9,
+          "order": 1,
+          "price": 79.9,
+          "productId": "2341518",
+          "spec": "颜色分类:拍下前请留言手围大小",
+          "spec1": "拍下前请留言手围大小",
+          "spec2": null,
+          "spec3": null,
+          "spec4": null,
+          "spec5": null,
+          "thirdSkuId": null,
+          "updatedAt": 1433987722000,
+          "balanceAmount":"分成金额"
+        },
+          {
+            "amount": 100,
+            "createdAt": 1433987722000,
+            "id": "8sajxqud",
+            "marketPrice": 79.9,
+            "order": 1,
+            "price": 79.9,
+            "productId": "2341518",
+            "spec": "颜色分类:拍下前请留言手围大小",
+            "spec1": "拍下前请留言手围大小",
+            "spec2": null,
+            "spec3": null,
+            "spec4": null,
+            "spec5": null,
+            "thirdSkuId": null,
+            "updatedAt": 1433987722000,
+            "balanceAmount":"分成金额"
+          }]
+      },
+      {
+        "id":"2495242",
+        "productId":"2495242",
+        "image":"http://xqproduct.xiangqu.com/FkqNnR65h752cvgWA1ycVGA4jIg8?imageView2/2/w/606/q/90/format/jpg/800x800/",
+        "title":"OGG CRAFT 仿真玩具枪 木制新款加特林 可发射软弹类 连发皮筋枪",
+        "costPrice":"￥18",
+        "commissionRate":"15%",
+        "prodUrl":"http://www.xiangqu.com/product/detail/2495242.html?p=1&spm=9.2.1.6",
+        "source":"￥18",
+        "articles":[{
+          "articleTitle":"微信文章标题",
+          "articleUrl":"文章链接"
+        }],
+        "skus":[{
+          "amount": 100,
+          "createdAt": 1433987722000,
+          "id": "8sajxqud",
+          "marketPrice": 79.9,
+          "order": 1,
+          "price": 79.9,
+          "productId": "2341518",
+          "spec": "颜色分类:拍下前请留言手围大小",
+          "spec1": "拍下前请留言手围大小",
+          "spec2": null,
+          "spec3": null,
+          "spec4": null,
+          "spec5": null,
+          "thirdSkuId": null,
+          "updatedAt": 1433987722000,
+          "balanceAmount":"分成金额"
+        },
+          {
+            "amount": 100,
+            "createdAt": 1433987722000,
+            "id": "8sajxqud",
+            "marketPrice": 79.9,
+            "order": 1,
+            "price": 79.9,
+            "productId": "2341518",
+            "spec": "颜色分类:拍下前请留言手围大小",
+            "spec1": "拍下前请留言手围大小",
+            "spec2": null,
+            "spec3": null,
+            "spec4": null,
+            "spec5": null,
+            "thirdSkuId": null,
+            "updatedAt": 1433987722000,
+            "balanceAmount":"分成金额"
+          }]
+      }
+    ],
+    "total":"64",
+    "page":"2",
+    "num":"10"
+
+  },
+  "msg": null,
+  "success": true
+}

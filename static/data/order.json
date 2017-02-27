@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "data": {
+    "orders":[{
+      "id":"",
+      "orderNo":"SO170212157890302020384",
+      "paidFee":0.01,
+      "payType":"ALIPAY_WEB",
+      "shopName":"Apple测试店铺",
+      "showRefundBtn":true,
+      "status":"PAID",
+      "statusStr":"待发货",
+      "totalFee":0.01,
+      "type":"DANBAO",
+      "typeStr":"担保交易",
+      "orderItems":[{
+        "id":"id",
+        "orderId":"订单id",
+        "orderNo":"订单编号",
+        "productId":"商品ID",
+        "productName":"商品名称",
+        "skuId":"",
+        "skuImg":"http://xqproduct.xiangqu.com/Frx-J0oZE3vFxl_5X4ipDhRbofmK?imageView2/2/w/214/q/90/format/jpg/800x800/",
+        "price":"$150",
+        "amount":"2",
+        "unionCommissionRate":"10%",
+        "balanceAmount":"200",
+        "paidAt":"2017-02-20 15:38:38",
+        "status":"订单状态",
+        "statusStr":"已付款"
+      }]
+    }],
+    "paidTotal":"10",
+    "refundTotal":"20",
+    "closedTotal":"30",
+    "successTotal":"40",
+    "orderTotal":"50",
+    "balanceTotal":"60",
+    "total":"70",
+    "num":"10",
+    "page":"0"
+
+  },
+  "msg": null,
+  "success": true
+}

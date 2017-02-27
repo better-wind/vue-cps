@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93adf08d-f791-4bf4-a570-95dc58d7a0ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist-dev/Group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist-dev/order-import.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/Group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/check-versions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/dev-client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/dev-server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/vue-loader.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.base.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.dev.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/webpack.prod.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/dev.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/prod.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist-dev/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist-dev/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist-dev/styles.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/css/app.3002ed2b621934353ec46c95a4b362ca.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/css/app.3002ed2b621934353ec46c95a4b362ca.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/data/balance.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/data/login.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/data/order.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/data/product.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/data/promot.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/js/app.01db3d0f599ebb2aa416.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/js/app.01db3d0f599ebb2aa416.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/js/manifest.c88cfc2170fe86ff688b.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/js/manifest.c88cfc2170fe86ff688b.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/js/vendor.ae636e84976f2004d454.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/static/js/vendor.ae636e84976f2004d454.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/httpserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/style/common/common.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/style/common/control.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/style/control-panel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/ExtensionChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/Footer.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/HeaderChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/LodingChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/MenuChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/OrderChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/PageChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/PopLayerChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/chuck/ProductChuck.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/panel/ExtensionView.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/panel/Login.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/panel/OrderView.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/panel/ProductView.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/mutations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/balance.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/login.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/order.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/product.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/data/promot.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vue-cps" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1358" />
+    <option name="y" value="32" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-cps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-cps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="D:/Install/tools/node/node" />
+    <property name="js.eslint.eslintPackage" value="C:\Users\wjf55\AppData\Roaming\npm\node_modules\eslint" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Install\tools\node\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\github\vue-cps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93adf08d-f791-4bf4-a570-95dc58d7a0ad" name="Default" comment="" />
+      <created>1488162130076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488162130076</updated>
+      <workItem from="1488162131395" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="32" width="1936" height="1176" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

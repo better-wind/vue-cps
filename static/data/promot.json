@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "data": {
+    "productUrl":"http://www.xiangqu.com/product/detail?id=1899294&suid=null&spid=1899294&stime=20170220184408&ssign=277020D0F18AD1A069C99CBF577A6CA1",
+    "qrCode":"http://xqproduct.xiangqu.com/FiAP_wseVh83qjLfOJ2xbnAyfSZ6?imageView2/2/w/150/q/90/format/jpg/150x150/"
+  },
+  "msg": null,
+  "success": true
+
+}
